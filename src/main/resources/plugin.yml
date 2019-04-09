@@ -1,0 +1,8 @@
+name: R3DChat
+author: Sterling (Redstonehax)
+description: Chat plugin developed for Everneth's UHC
+version: 1.0
+main: com.redslounge.Plugin
+commands:
+  all:
+    description: Used to communicate with non-team players.
